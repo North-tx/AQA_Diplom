@@ -1,6 +1,6 @@
 ### Дипломный проект по профессии «Тестировщик ПО»
 [![Build status](https://ci.appveyor.com/api/projects/status/rj3emib4auafmh4k?svg=true)](https://ci.appveyor.com/project/North-tx/aqa-diplom)
-## Документы
+
 1. [Задание для работы](https://github.com/North-tx/AQA_Diplom/blob/main/doc/Task.md)
 2. [План автоматизации тестирования](https://github.com/North-tx/AQA_Diplom/blob/main/doc/Plan.md)
 3. [Отчёт по итогам тестирования](https://github.com/North-tx/AQA_Diplom/blob/main/doc/Report.md)
